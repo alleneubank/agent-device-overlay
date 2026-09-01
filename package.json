@@ -1,0 +1,12 @@
+{
+  "name": "agent-device-overlay",
+  "private": true,
+  "dependencies": {
+    "agent-device": "0.20.10"
+  },
+  "overrides": {
+    "@limrun/api": {
+      "undici": "7.29.0"
+    }
+  }
+}
