@@ -2,7 +2,7 @@
   "name": "agent-device-overlay",
   "private": true,
   "dependencies": {
-    "agent-device": "0.20.10"
+    "agent-device": "0.21.16"
   },
   "overrides": {
     "@limrun/api": {
